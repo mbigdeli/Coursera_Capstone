@@ -2,6 +2,7 @@
 This repo created for final project of Coursera capstone
 
 1.	Introduction
+
 1.1.	Background
 According to Innovation, Science & Economic Development Canada statistics, thousands of businesses exit the marketplace every year in Canada. Business failure statistics show that about 96 percent of small businesses (1–99 employees) that enter the marketplace survive for one full year, 85 percent survive for three years and 70 percent survive for five years (Key Small Business Statistics). Approximately 7,000 businesses go bankrupt every year in Canada
 
